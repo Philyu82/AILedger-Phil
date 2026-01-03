@@ -1,0 +1,8 @@
+{
+  "name": "YuanYuan Ledger AI",
+  "description": "A feature-rich, AI-powered personal finance tracker with smart categorization, visual reports, and natural language expense entry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

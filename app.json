@@ -1,0 +1,22 @@
+
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6366f1",
+    "navigationBarTitleText": "元元记账 AI",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "default"
+  },
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.record": {
+      "desc": "您的录音功能将用于识别账单描述"
+    },
+    "scope.camera": {
+      "desc": "您的摄像头将用于扫描收据照片"
+    }
+  }
+}
